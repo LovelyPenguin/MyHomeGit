@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/IdiotGPGS.unity
+  isLoaded: 1
+  isActive: 1
